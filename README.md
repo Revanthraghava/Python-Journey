@@ -18,4 +18,11 @@ Project:
 - A program that collects multiple scores,
   calculates total, average, highest and lowest values,
   and outputs a Pass/Fail result.
+
+  ## Day 5 – Score Categorizer
+- Categorized scores using conditions inside loops
+- Counted pass/fail cases
+- Calculated percentages
+- Handled empty input safely
+
      
